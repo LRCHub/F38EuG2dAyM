@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "イガク",
+  "base_artist": "原口沙輔",
+  "createdAt": "2026-02-27T16:55:20.877106Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イガク",
+      "artist": "原口沙輔",
+      "has_synced": true,
+      "path": "select/01_イガク_原口沙輔.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イガク - 重音テト",
+      "artist": "原口沙輔",
+      "has_synced": true,
+      "path": "select/02_イガク_-_重音テト_原口沙輔.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イガク feat. 重音テト",
+      "artist": "原口沙輔",
+      "has_synced": true,
+      "path": "select/03_イガク_feat._重音テト_原口沙輔.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イガク（テトライブ2025-実演盤-）",
+      "artist": "重音テト",
+      "has_synced": false,
+      "path": "select/04_イガク(テトライブ2025-実演盤-)_重音テト.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イガク / Medicine (ENGLISH)",
+      "artist": "nezunami",
+      "has_synced": true,
+      "path": "select/05_イガク___Medicine_(ENGLISH)_nezunami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イガク",
+      "artist": "原口沙輔",
+      "has_synced": false,
+      "path": "select/pl_01_イガク_原口沙輔.txt"
+    }
+  ]
+}
